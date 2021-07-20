@@ -51,7 +51,7 @@ header {
 }
 
 #main-page {
-  background: url(/assets/mainPage-background.png);
+  background: url(./assets/mainPage-background.png);
   color: white;
   width: 1600px;
   height: 788px;
@@ -225,7 +225,7 @@ header {
 }
 
 #page5 {
-  background: url(/assets/page5-background.png);
+  background: url(./assets/page5-background.png);
   color: white;
   width: 1600px;
   height: 500px;
